@@ -1,0 +1,189 @@
+卷 Software 的文件夹 PATH 列表
+卷序列号为 00000035 8095:4902
+E:.
+│  db.sqlite3
+│  db_initial.sqlite3
+│  db_null.sqlite3
+│  manage.py
+│  result.txt
+│  test.py
+│  
+├─.idea
+│      encodings.xml
+│      misc.xml
+│      modules.xml
+│      TrainingModel.iml
+│      workspace.xml
+│      
+├─TrainingModel
+│  │  settings.py
+│  │  urls.py
+│  │  wsgi.py
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│          settings.cpython-35.pyc
+│          urls.cpython-35.pyc
+│          wsgi.cpython-35.pyc
+│          __init__.cpython-35.pyc
+│          
+└─training_model
+    │  admin.py
+    │  apps.py
+    │  models.py
+    │  p_water_quality.csv
+    │  RC_database.py
+    │  RC_excel.py
+    │  RC_network.py
+    │  RC_training.py
+    │  tests.py
+    │  TH.xlsx
+    │  views.py
+    │  water_quality.csv
+    │  __init__.py
+    │  
+    ├─.ipynb_checkpoints
+    │      Untitled-checkpoint.ipynb
+    │      
+    ├─data_filter
+    │      THL00-TP
+    │      THL00-TP.png
+    │      THL01-TP
+    │      THL01-TP.png
+    │      THL03-TP
+    │      THL03-TP.png
+    │      THL04-TP
+    │      THL04-TP.png
+    │      THL05-TP
+    │      THL05-TP.png
+    │      THL06-TP
+    │      THL06-TP.png
+    │      THL07-TP
+    │      THL07-TP.png
+    │      THL08-TP
+    │      THL08-TP.png
+    │      
+    ├─migrations
+    │  │  0001_initial.py
+    │  │  0002_auto_20170427_1921.py
+    │  │  0003_auto_20170507_1417.py
+    │  │  0004_auto_20170507_1502.py
+    │  │  0005_data_tn.py
+    │  │  0006_p_data.py
+    │  │  __init__.py
+    │  │  
+    │  └─__pycache__
+    │          0001_initial.cpython-35.pyc
+    │          0002_auto_20170427_1921.cpython-35.pyc
+    │          0003_auto_20170507_1417.cpython-35.pyc
+    │          0004_auto_20170507_1502.cpython-35.pyc
+    │          0005_data_tn.cpython-35.pyc
+    │          0006_p_data.cpython-35.pyc
+    │          __init__.cpython-35.pyc
+    │          
+    ├─static
+    │  │  log.txt
+    │  │  
+    │  ├─css
+    │  │      bootstrap-theme.css
+    │  │      bootstrap-theme.css.map
+    │  │      bootstrap-theme.min.css
+    │  │      bootstrap-theme.min.css.map
+    │  │      bootstrap.css
+    │  │      bootstrap.css.map
+    │  │      bootstrap.min.css
+    │  │      bootstrap.min.css.map
+    │  │      style.css
+    │  │      
+    │  ├─fonts
+    │  │      glyphicons-halflings-regular.eot
+    │  │      glyphicons-halflings-regular.svg
+    │  │      glyphicons-halflings-regular.ttf
+    │  │      glyphicons-halflings-regular.woff
+    │  │      glyphicons-halflings-regular.woff2
+    │  │      
+    │  ├─img
+    │  │  │  show.png
+    │  │  │  Testing-Error.png
+    │  │  │  Testing-result.png
+    │  │  │  THL00-NH.png
+    │  │  │  THL00-TN.png
+    │  │  │  THL01-NH.png
+    │  │  │  THL01-TN.png
+    │  │  │  Training-Error.png
+    │  │  │  Training-result.png
+    │  │  │  
+    │  │  ├─temp
+    │  │  │      Testing-Error.png
+    │  │  │      Testing-result.png
+    │  │  │      Training-Error.png
+    │  │  │      Training-result.png
+    │  │  │      
+    │  │  └─test_result
+    │  │      │  Testing-Error.png
+    │  │      │  The_11_time_train.png
+    │  │      │  The_16_time_train.png
+    │  │      │  The_1_time_train.png
+    │  │      │  The_2_time_train.png
+    │  │      │  The_3_time_train.png
+    │  │      │  The_5_time_train.png
+    │  │      │  The_6_time_train.png
+    │  │      │  Training-Error.png
+    │  │      │  
+    │  │      └─pH&TP_NH4_THL00_THL05_0.7
+    │  │              Testing-Error.png
+    │  │              Testing-result.png
+    │  │              The_101_time_train.png
+    │  │              The_1_time_train.png
+    │  │              The_201_time_train.png
+    │  │              The_301_time_train.png
+    │  │              The_401_time_train.png
+    │  │              The_501_time_train.png
+    │  │              The_601_time_train.png
+    │  │              The_701_time_train.png
+    │  │              The_801_time_train.png
+    │  │              The_901_time_train.png
+    │  │              Training-Error.png
+    │  │              Training-result.png
+    │  │              
+    │  └─js
+    │          bootstrap.js
+    │          bootstrap.min.js
+    │          jquery-1.12.4.js
+    │          jquery.min.js
+    │          npm.js
+    │          
+    ├─templates
+    │  │  simple_template.html
+    │  │  temp.html
+    │  │  
+    │  └─src
+    │      │  index.html
+    │      │  
+    │      ├─css
+    │      │      bootstrap-theme.min.css
+    │      │      bootstrap.min.css
+    │      │      style.css
+    │      │      
+    │      ├─fonts
+    │      │      glyphicons-halflings-regular.eot
+    │      │      glyphicons-halflings-regular.svg
+    │      │      glyphicons-halflings-regular.ttf
+    │      │      glyphicons-halflings-regular.woff
+    │      │      glyphicons-halflings-regular.woff2
+    │      │      
+    │      └─js
+    │              bootstrap.min.js
+    │              jquery.min.js
+    │              scripts.js
+    │              
+    └─__pycache__
+            admin.cpython-35.pyc
+            models.cpython-35.pyc
+            RC_database.cpython-35.pyc
+            RC_excel.cpython-35.pyc
+            RC_network.cpython-35.pyc
+            RC_training.cpython-35.pyc
+            views.cpython-35.pyc
+            __init__.cpython-35.pyc
+            
