@@ -1,2 +1,2 @@
 # Water-Quality-Data-Prediction
-## The model is a part of a django project, play as an app
+## The model is an app in a B/S architecture based on Django.
